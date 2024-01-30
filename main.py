@@ -76,7 +76,7 @@ def load_trucks(truck1_, truck2_, truck3_, package_list):
                         # Truck 3 could be at max capacity.  If so, append to truck 2.  Remove from sort list.
                         truck2_load.append(package_.id_)
                         sort_list.remove(package_)
-            # Truck 19 goes with group packages. Remove from sort list.
+            # Package 19 goes with group packages. Remove from sort list.
             elif package_.id_ == 19:
                 truck1_load.append(package_.id_)
                 sort_list.remove(package_)
