@@ -1,10 +1,4 @@
 
-# Source: # C950 - Webinar-1 - Let’s Go Hashing
-# # W-1_ChainingHashTable_zyBooks_Key-Value.py
-# # Ref: zyBooks: Figure 7.8.2: Hash table using chaining.
-# C950 - Webinar-1 - Let’s Go Hashing - Complete Python Code pdf
-# https://srm--c.na127.visual.force.com/apex/coursearticle?Id=kA03x000000e1fuCAA
-
 # Blueprint for CreateHashMap objects.  Creates HashMap.
 # O(N)time --- O(N)space
 class HashMap:
