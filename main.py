@@ -1,8 +1,6 @@
 # Press Shift+F10 to execute
 # Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
 
-# Author: Chris Cimorelli
-# Student ID: 010277217
 # C950 PA - A Delivery Routing Application
 
 # Main class launches program
