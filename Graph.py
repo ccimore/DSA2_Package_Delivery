@@ -1,6 +1,4 @@
 
-# Source: WGU C950 - Webinar 3 - How to Dijkstra - Complete Python Code pdf
-# https://srm--c.na127.visual.force.com/apex/coursearticle?Id=kA03x000000e1gECAQ#
 # Blueprint for Graph objects.  Creates Graph.
 # O(1)time --- O(N)space
 class Graph:
