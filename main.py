@@ -16,8 +16,6 @@ from HashMap import HashMap
 total_packages_list = []
 
 
-# Source: WGU C950 - Webinar 3 - How to Dijkstra - Complete Python Code pdf
-# https://srm--c.na127.visual.force.com/apex/coursearticle?Id=kA03x000000e1gECAQ
 # Creates package objects from list, inserts them into HashMap, and appends them to total packages list
 # O(N)time --- O(N)space
 def load_package(package_list, package_hash):
